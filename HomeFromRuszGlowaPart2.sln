@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeFromRuszGlowaPart2", "HomeFromRuszGlowaPart2\HomeFromRuszGlowaPart2.csproj", "{E6BCCB58-DF4B-4C8A-811B-CA47CAF26642}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeFromRuszGlowa", "..\HomeFromRuszGlowa2\HomeFromRuszGlowa.csproj", "{2F894574-22D8-4DCF-8CB4-0C4DC3097137}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E6BCCB58-DF4B-4C8A-811B-CA47CAF26642}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E6BCCB58-DF4B-4C8A-811B-CA47CAF26642}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E6BCCB58-DF4B-4C8A-811B-CA47CAF26642}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E6BCCB58-DF4B-4C8A-811B-CA47CAF26642}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F894574-22D8-4DCF-8CB4-0C4DC3097137}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F894574-22D8-4DCF-8CB4-0C4DC3097137}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F894574-22D8-4DCF-8CB4-0C4DC3097137}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F894574-22D8-4DCF-8CB4-0C4DC3097137}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
